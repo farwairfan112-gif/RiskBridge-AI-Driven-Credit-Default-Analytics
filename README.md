@@ -45,3 +45,7 @@ jupyter notebook
 ```
 2. Open calculator.ipynb in your browser.
 3. Follow the instructions in the notebook to input data and calculate loan default risk.
+
+**Important:** The full cleaned CSV (~522MB) is not included due to size limits. 
+All `.pkl` models are pre-trained and can be used directly with `calculator.ipynb`.
+
